@@ -28,7 +28,7 @@ int main()
     int opinion;
     system("cls");
     printf("\t\t\t\t\t\tA STUDENT THING\n");
-    printf("\t\t\t\t\t\t\t\t-An innovation from Rishik and Anji\n\n\n\n\n");
+    printf("\t\t\t\t\t\t\t\t-An innovation from Rishik\n\n\n\n\n");
     printf("\n\n\n\t\t\t\t\t  Press:\n");
     printf("\t\t\t\t\t    1  to estimate internal marks\n");
     printf("\t\t\t\t\t    2  to know how to maintain attendence\n");
