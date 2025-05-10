@@ -10,9 +10,6 @@ Welcome to **A Student Thing**, a C-based console application designed to assist
   - [Internal Marks Estimator](#internal-marks-estimator)
   - [Attendance Manager](#attendance-manager)
   - [Tic-Tac-Toe Game](#tic-tac-toe-game)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 - **Internal Marks Estimator**: Calculate the marks needed in your second mid-term to achieve a target internal score.
@@ -96,29 +93,5 @@ Once the program runs, you'll see the main menu:
 - **Output**: Displays the game board, announces the winner (or draw), and offers options to replay, return to the main menu, or exit.
 - **Computer AI**: Uses a simple rule-based strategy to block player wins or prioritize winning moves, falling back to predefined position preferences (e.g., center, corners, edges).
 - **Logic**: Checks for wins or draws after each move using predefined winning combinations.
-
-## Contributing
-We welcome contributions to improve **A Student Thing**! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-**Ideas for Contributions**:
-- Add support for more subjects or flexible schedules in the attendance manager.
-- Improve the Tic-Tac-Toe AI with advanced strategies.
-- Enhance portability by removing platform-specific dependencies.
-- Add a GUI using a library like SDL or Qt.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Created by **Rishik** and **Anji**.
-- Thanks to the open-source community for inspiration and tools.
-- Built with ❤️ for students everywhere.
-
----
 
 Feel free to explore **A Student Thing** and make it your own. If you have questions or suggestions, open an issue or reach out. Happy studying (and gaming)!
