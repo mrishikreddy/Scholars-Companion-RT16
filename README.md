@@ -49,7 +49,7 @@ To get started with **Scholars Companion**, follow these steps:
 ## Usage
 Once the program runs, you'll see the main menu:
 ```
-             Scholars Companion
+                Scholars Companion
                         -An innovation from Rishik
 
                 Press:
