@@ -27,7 +27,7 @@ int main()
 {
     int opinion;
     system("cls");
-    printf("\t\t\t\t\t\tA STUDENT THING\n");
+    printf("\t\t\t\t\t\tScholars Companion\n");
     printf("\t\t\t\t\t\t\t\t-An innovation from Rishik\n\n\n\n\n");
     printf("\n\n\n\t\t\t\t\t  Press:\n");
     printf("\t\t\t\t\t    1  to estimate internal marks\n");
