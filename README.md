@@ -1,6 +1,6 @@
-# A Student Thing
+# Scholars Companion
 
-Welcome to **A Student Thing**, a C-based console application designed to assist students with academic tasks and provide a bit of fun along the way. This project, created by Rishik and Anji, offers tools to estimate internal marks, manage attendance, and play a classic Tic-Tac-Toe game against the computer. It's a simple yet practical utility for students looking to stay on top of their academic game.
+Welcome to **Scholars Companion**, a C-based console application designed to assist students with academic tasks and provide a bit of fun along the way. This project, created by Rishik and Anji, offers tools to estimate internal marks, manage attendance, and play a classic Tic-Tac-Toe game against the computer. It's a simple yet practical utility for students looking to stay on top of their academic game.
 
 ## Table of Contents
 - [Features](#features)
@@ -19,7 +19,7 @@ Welcome to **A Student Thing**, a C-based console application designed to assist
 - Cross-platform compatibility (with minor adjustments for non-Windows systems).
 
 ## Installation
-To get started with **A Student Thing**, follow these steps:
+To get started with **Scholars Companion**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
@@ -49,7 +49,7 @@ To get started with **A Student Thing**, follow these steps:
 ## Usage
 Once the program runs, you'll see the main menu:
 ```
-                A STUDENT THING
+             Scholars Companion
                         -An innovation from Rishik
 
                 Press:
@@ -94,4 +94,4 @@ Once the program runs, you'll see the main menu:
 - **Computer AI**: Uses a simple rule-based strategy to block player wins or prioritize winning moves, falling back to predefined position preferences (e.g., center, corners, edges).
 - **Logic**: Checks for wins or draws after each move using predefined winning combinations.
 
-Feel free to explore **A Student Thing** and make it your own. If you have questions or suggestions, open an issue or reach out. Happy studying (and gaming)!
+Feel free to explore **Scholars Companion** and make it your own. If you have questions or suggestions, open an issue or reach out. Happy studying (and gaming)!
